@@ -1,0 +1,42 @@
+body {
+
+    border: white 24px;
+}
+
+#topo-do-site{ 
+    color: white;
+    background-color:#21022d;
+    text-align: center ;
+    padding: 8px;
+    font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+    
+  
+}
+
+#ro-da-pe {
+
+    color: white;
+    background-color:#21022d;
+    text-align: center ;
+    padding: 8px;
+    font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+}
+
+
+#vi-ta-mi-nas {
+
+
+    color: #21022d;
+    background-color:#e2d8e7 ;
+    padding: 64px;
+    font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+    
+}
+
+#lac-to-se {
+    
+    color: #21022d;
+    background-color:#e2d8e7 ;
+    text-align: center;
+    font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+}
